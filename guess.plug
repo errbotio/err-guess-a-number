@@ -1,0 +1,9 @@
+[Core]
+Name = guess
+Module = guess.py
+
+[Documentation]
+Description = Example of errbot flows
+
+[Python]
+Version = 2+

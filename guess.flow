@@ -1,0 +1,9 @@
+[Core]
+Name = guess_flows
+Module = guess_flows.py
+
+[Documentation]
+Description = Example of flows with re_botcmd
+
+[Python]
+Version = 2+
