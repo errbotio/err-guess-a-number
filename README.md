@@ -10,7 +10,7 @@ It will trigger the guessing game.
 
 You can see the structure of the flow with
 ```
->>> !flows list guess
+>>> !flows show guess
 Flow guess
   ⤷tryme
     ⤷guessing
