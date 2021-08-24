@@ -1,6 +1,6 @@
 [Core]
 Name = guess
-Module = guess.py
+Module = guess
 
 [Documentation]
 Description = Example of errbot flows
